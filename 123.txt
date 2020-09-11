@@ -2,6 +2,10 @@ hello world
 wnagshuo welcome git
 zancunqubutijiao 
 dev
+<<<<<<< HEAD
 feat
 feat2
-
+=======
+feart
+>>>>>>> feat
+aaaaa
