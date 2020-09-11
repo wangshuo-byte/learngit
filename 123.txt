@@ -5,7 +5,5 @@ dev
 <<<<<<< HEAD
 feat
 feat2
-=======
-feart
->>>>>>> feat
-aaaaa
+fear
+bbbbbt
